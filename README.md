@@ -23,7 +23,7 @@ Além disso, servir como base visual para futuros projetos com JavaScript ou fra
 
 ## 🚀 Acesse o Projeto
 
-🔗 [Clique aqui para acessar o site](meu-portfolio-dev.netlify.app)
+🔗 [Clique aqui para acessar o site](https://meu-portfolio-dev.netlify.app)
 
 ---
 
