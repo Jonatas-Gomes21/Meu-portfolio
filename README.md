@@ -23,7 +23,7 @@ Além disso, servir como base visual para futuros projetos com JavaScript ou fra
 
 ## 🚀 Acesse o Projeto
 
-🔗 [Clique aqui para acessar o site](https://seu-portifolio.vercel.app/)
+🔗 [Clique aqui para acessar o site](meu-portfolio-dev.netlify.app)
 
 ---
 
@@ -47,4 +47,4 @@ Além disso, servir como base visual para futuros projetos com JavaScript ou fra
 - ⚙️ **HTML5** – Estrutura semântica e acessível  
 - 🎨 **CSS3** – Estilização moderna e responsiva  
 - 💻 **Boas práticas** – Organização de código, responsividade e foco na experiência do usuário  
-- ☁️ **Hospedagem** – Vercel (para disponibilizar a página online de forma gratuita)
+- ☁️ **Hospedagem** – Netlify (para disponibilizar a página online de forma gratuita)
