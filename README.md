@@ -30,13 +30,13 @@ Além disso, servir como base visual para futuros projetos com JavaScript ou fra
 ## 🖼️ Preview da Aplicação
 
 ### 📌 Tela Inicial  
-![Tela Inicial](./src/assets/img/preview/mainPage.jpg)
+![Tela Inicial](/assets/img/preview/mainPage.png)
 
 ### ❓ Seção Sobre
-![Outra Tela](./src/assets/img/preview/secondPage.jpg)
+![Outra Tela](/assets/img/preview/secondPage.png)
 
 ### 🚧 Projetos 
-![Resultado](./src/assets/img/preview/resultPage.jpg)
+![Resultado](assets/img/preview/resultPage.png)
 
 > As imagens podem ser atualizadas conforme o projeto evolui.
 
